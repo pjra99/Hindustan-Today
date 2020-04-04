@@ -1,0 +1,70 @@
+body {
+background-image: url(https://images.theconversation.com/files/168390/original/file-20170508-5468-15e9j0c.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip);
+  background-size: cover;
+
+}
+header {
+    background-color: wheat;
+  font-family: 'IM Fell French Canon SC', serif;
+    margin: -22px -10px -20px -10px;
+    text-align: center;
+    opacity: .9;
+
+}
+.row {
+  margin-left: 65%;
+  background-color: #d1cebd;
+  opacity: .9;
+  padding: 40px;
+  margin-top: 50px;
+  margin-right: 10%;
+}
+
+.name, .password {
+  font-family: 'Baloo Thambi 2', cursive;
+  font-size: 20px;
+}
+.input {
+  background-color: wheat;
+}
+hr {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.login {
+  border-radius: 12px;
+  border:none;
+  background-color: wheat;
+  margin-left: 20px;
+  font-size: 15px;
+}
+.login:hover {
+  font-size: 17px;
+}
+.log {
+  text-decoration: none;
+  color: black;
+}
+.acc {
+  text-decoration: none;
+  color: black;
+}
+
+.gmail {
+  color: red;
+  border-radius: 10%;
+  border:none;
+  margin-top: 10px;
+}
+.fab{
+  font-size:25px;
+
+}
+.facebook {
+  color:blue;
+  float: right;
+  margin-top: -11%;
+  margin-right: 60%;
+  border-radius: 10%;
+  border:none;
+}

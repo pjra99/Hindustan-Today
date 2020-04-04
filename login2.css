@@ -1,0 +1,88 @@
+header {
+    background-color: wheat;
+    margin: -10px -10px 0px -9px;
+    opacity: .9;
+}
+.welcome {
+font-family: 'IM Fell French Canon SC', serif;
+text-align: center;
+margin: 0px;
+}
+nav {
+  background-color:wheat;
+  height: 23px;
+  margin: 0px;
+}
+.navbar {
+  margin-left: -1.2%;
+  margin-right: -1.2%;
+}
+nav a {
+  margin:120px;
+  font-size: 20px;
+  color:#323edd;
+  font-family:  'Inter', sans-serif;
+}
+.common {
+  text-decoration: none;
+  color: #1a73e8;
+}
+.common:hover {
+  background-color: #b0a160;
+}
+
+body{
+    background-image: url(https://media.bizj.us/view/img/1318591/newspapersistock*1200xx600-338-0-31.jpg);
+    background-size:cover;
+}
+.name {
+  margin-left: 75px;
+  background-color: wheat;
+}
+.password {
+  margin-left:16px;
+  background-color: wheat;
+}
+.pass {
+  margin-left:60px;
+  background-color: wheat;
+}
+.mobileno {
+  margin-left:46px;
+  background-color: wheat;
+}
+.city {
+  margin-left:48px;
+  background-color: wheat;
+}
+.country {
+  margin-left:58px;
+  background-color: wheat;
+}
+form {
+ box-sizing: content-box;
+ border-radius: 12px;
+ width: 300px;
+ height: 380px;
+ padding: 30px;
+ border: 2px  black;
+ background-color: #d1cebd;
+ font-family: 'Baloo Thambi 2', cursive;
+ margin-left: 30px;
+ opacity: .9;
+ margin-top: 40px;
+}
+.create {
+  border-radius: 12px;
+  background-color: wheat;
+  margin-left: 20px;
+  border:none;
+  font-size: 17px;
+}
+.create a {
+  text-decoration: none;
+  color: black;
+}
+.create:hover {
+  font-size: 20px;
+}

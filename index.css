@@ -1,0 +1,111 @@
+body header
+{
+    margin: -23px;
+    background-color: #f6d186;
+    text-align: center;
+    border-bottom:1px solid black;
+  font-family: 'IM Fell French Canon SC', serif;
+  opacity: .9;
+}
+subheading h3 b {
+  font-family: 'PT Serif', serif;
+}
+button {
+    background-color: #f5cab3;
+    margin: 0px 50px 0px 50px;
+    border: none;
+}
+heading1 h3, heading2 h3, heading3 h3 {
+  font-family: 'Crimson Text', serif;
+}
+tr td ul {
+  font-family: 'Zilla Slab', serif;
+}
+main ul li h3 {
+  font-family: 'Rajdhani', sans-serif;
+}
+main ul li p {
+  font-family: 'Rajdhani', sans-serif;
+
+}
+button:hover {
+    background-color: #ffd3b6;
+    color: brown;
+    text-shadow: 100px;
+}
+.dropbtn, .home button {
+  background-color: #fbc490;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+.home button a {
+  text-decoration: none;
+  color: black;
+}
+.home button:hover {
+  font-size: 17px;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  width: 80%;
+  display: none;
+  position: absolute;
+  margin-left: 30px;px;
+  background-color:#ffd3b6;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #ffd3b6;}
+
+body subheading h3
+{
+    margin: 30px 0px 20px 140px;
+}
+body
+{
+background-color:antiquewhite;
+}
+body section2
+{
+  margin-left:900px;
+
+}
+body section table
+{
+  margin-left: 72%;
+  background-color: pink;
+}
+body main
+{
+    margin-top: -96%;
+    margin-left: 100px;
+}
+body footer h5
+{
+    text-align: center;
+}
+body footer div
+{
+    text-align: center;
+}
+a {
+  text-decoration: none;
+  color:0f4c81;
+}
