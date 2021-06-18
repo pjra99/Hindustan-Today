@@ -1,1 +1,1 @@
-alert("Enjoy reading with Hindustan Today");
+// alert("Enjoy reading with Hindustan Today");
