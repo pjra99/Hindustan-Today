@@ -113,7 +113,6 @@ a {
  @media only screen and (max-width: 1400px){
  body main {
     margin-top: -80%;
-    color: red;
   }
   .add-img {
     margin-left: 10%;
